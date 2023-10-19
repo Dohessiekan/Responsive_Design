@@ -578,6 +578,9 @@ span {
 }
 
 @media screen and (max-width: 480px) {
+    html {
+        font-size: 100%;
+    }
     /* Placez ici les styles spécifiques pour les petits écrans */
     .header {
         padding: 10px; /* Réduisez davantage le rembourrage de l'en-tête pour les petits écrans */
