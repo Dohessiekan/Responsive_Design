@@ -443,6 +443,12 @@ span {
     color: var(--second-bg-color);
 }
 
+#msg {
+    color: #61b752;
+    margin-top: -30px;
+    display: block;
+}
+
 /* BREAKPOINT */
 @media (max-width: 1200px) {
     html {
