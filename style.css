@@ -516,7 +516,7 @@ span {
     }
 
     .home-img img {
-        width: 70vw;
+        width: 50vw;
         margin-top: 4rem;
     }
 
@@ -525,7 +525,7 @@ span {
     }
 
     .about img {
-        width: 70vw;
+        width: 50vw;
         margin-top: 4rem;
     }
 
@@ -560,11 +560,11 @@ span {
 
 @media (max-width:365px) {
     .home-img img {
-        width: 90vw;
+        width: 50vw;
     }
 
     .about-img img {
-        width: 90vw;
+        width: 50vw;
     }
 
     .footer {
